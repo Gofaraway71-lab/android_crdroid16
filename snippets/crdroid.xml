@@ -5,13 +5,13 @@
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4"
-           revision="refs/heads/15.0" />
+           revision="refs/heads/16.0" />
 
   <remote  name="crdroid-gitlab"
            fetch="https://gitlab.com/"
            sync-c="true"
            sync-j="4"
-           revision="refs/heads/15.0" />
+           revision="refs/heads/16.0" />
 
   <!-- crDroid additions -->
   <project path="android" name="crdroidandroid/android" remote="crdroid" />
